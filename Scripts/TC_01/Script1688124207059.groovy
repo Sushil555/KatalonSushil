@@ -18,3 +18,4 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 println('Katalon github for testing')
 println('Katalon github for TestOps')
+println('Katalon github for testing2')
